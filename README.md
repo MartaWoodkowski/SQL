@@ -53,9 +53,6 @@ As I examined the data, you I overcame with a creeping suspicion that the datase
 
 3. Created a bar chart of average salary by title.
 
-## Epilogue
-
-Evidence in hand, I march into my boss's office and present the visualization. With a sly grin, my boss thanks me for the work. On the way out of the office, I hear the words, "search your ID number." I look down at my badge to see that my employee ID number is 499942.
 
 - - -
 
